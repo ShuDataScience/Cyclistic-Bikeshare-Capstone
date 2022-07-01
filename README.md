@@ -1,6 +1,7 @@
 # Cyclistic-Bikeshare-Capstone
 
 Context: 
+
 Cyclistic’s finance analysts have concluded that annual members are much more profitable than casual riders. Although the pricing flexibility helps Cyclistic attract more customers, maximizing the number of annual members will be key to future growth. Rather than creating a marketing campaign that targets all-new customers,  there is a very good chance to convert casual riders into members. 
 
 The fiction company is called Cyclistic. The marketing believes the company’s future success depends on maximizing the number of annual memberships. Therefore,my team wants to understand how casual riders and annual members use Cyclistic bikes differently. From these insights, we will design a new marketing strategy to convert casual riders into annual members.
