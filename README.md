@@ -19,7 +19,7 @@ How do annual members and casual riders use Cyclistic bikes differently?
 4. The casual riders and members' demand ranges differently in days. Casuals riders' demand at the weekend are significantly higher than working days, while members have less demand at the weekend. 
 5. All the docked_bike users are casual riders.
 
-General findings: 
+General Findings: 
 1. The analysis shows that casual users are more active (by 40% roughly) at the weekend.
 2. From the analysis, the most used start and end stations perfectly overlap. The top 7 stations are: 13022, LF-005,13042, 13000,TA1308000050, 13008, TA1308000050.  
 
