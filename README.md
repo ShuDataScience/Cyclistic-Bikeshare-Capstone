@@ -32,5 +32,7 @@ The marketing campaign can prioritize the most popular 7 locations, where the ca
 Provide more marketing campaign visibility (footage, frequency) at docked_bike stations. The users are 100% targeted customers.
 
 3. From the time perspective:
+
   a. Jun-Oct are the peak seasons. I recommend to increase budget spent in these months. The marketing campaingn will be viewed by more more target customers.
+  
   b. The casual users are more active (by 40% roughly) at the weekend. Increasing the marketing campaingn at the weekend, can increase the campaign exporsure to casual users to increase the potential converation rate to memebers.
