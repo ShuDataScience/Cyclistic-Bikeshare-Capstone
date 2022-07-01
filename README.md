@@ -24,13 +24,14 @@ How do annual members and casual riders use Cyclistic bikes differently?
 The three key recommendations for the marketing campaign: 
 
 1. From the location perspective: 
-The marketing campaign can prioritize the most popular 7 locations, where the campaign will target more users, and more targeted customers.
+The marketing campaign(i.e. rolling ads on the stations) can prioritize the most popular 7 locations, where the campaign will target more users, and more targeted customers.
 
 2. From the target customers perspective: 
-Provide more marketing campaign visibility (footage, frequency) at docked bike stations. The users are 100% targeted customers.
+Provide more marketing campaign visibility (i.e. billboard footage, rolling ads frequency) at docked bike stations. The users are 100% targeted customers.
+Digital advertisement and email campaign can be used to this group of users too. 
 
 3. From the time perspective:
   
-    a. Jun-Oct are the peak seasons. I recommend to increase budget spent in these months. The marketing campaingn will be viewed by more targeted customers (casual users).
+    a. Jun-Oct are the peak seasons. I recommend to increase budget spent in these months. The marketing campaingn will be viewed by more targeted customers (casual users). Digital advertisement and email campaign frequency can be increased.
   
     b. The casual users are more active (by 40% roughly) at the weekend. Increasing the marketing campaingn at the weekend, can increase the campaign exporsure to casual riders to increase the potential convertion rate from casual riders to annual memebers.
