@@ -23,7 +23,7 @@ Digital advertisement and email campaign can be used to this group of users too.
   
     a. Jun-Oct are the peak seasons. I recommend to increase budget spent in these months. The marketing campaingn will be viewed by more targeted customers (casual users). Digital advertisement and email campaign frequency can be increased.
   
-    b. The casual users are more active (by 40% roughly) at the weekend. Increasing the marketing campaingn at the weekend, can increase the campaign exporsure to casual riders hence increase the potential convertion rate from casual riders to annual memebers.
+    b. The casual users are more active (by roughly 40%) at the weekend. Increasing the marketing campaingn at the weekend, can increase the campaign exposure to casual riders hence increase the potential convertion rate from casual riders to annual memebers.
 
 Findings: 
 
