@@ -10,20 +10,20 @@ The goal for the analysis is: Design marketing strategies aimed at converting ca
 
 In order to do that, I will analyze behaviours of both causal riders and annual members, identify the difference/ trends and make recommendations on how digital media could affect their target customers.  
 
-The three key recommendations for the marketing campaign: 
+The three key recommendations for the marketing campaign are from where to select campaign location, how to better target the customers and seasonality and day of week  standpoint.    
 
 1. From the location perspective: 
 The marketing campaign (i.e. rolling ads at the stations) can prioritize the most popular 7 locations, where the campaign will target more users, and more targeted customers.
 
-2. From the target customers perspective: 
+2. From the target customers (casual riders) perspective: 
 Provide more marketing campaign visibility (i.e. billboard footage, rolling ads frequency) at docked bike stations. The users are 100% targeted customers.
 Digital advertisement and email campaign can be used to this group of users too. 
 
-3. From the time perspective:
+3. From the seanalirty and day of the week perspective:
   
     a. Jun-Oct are the peak seasons. I recommend to increase budget spent in these months. The marketing campaingn will be viewed by more targeted customers (casual users). Digital advertisement and email campaign frequency can be increased.
   
-    b. The casual users are more active (by 40% roughly) at the weekend. Increasing the marketing campaingn at the weekend, can increase the campaign exporsure to casual riders to increase the potential convertion rate from casual riders to annual memebers.
+    b. The casual users are more active (by 40% roughly) at the weekend. Increasing the marketing campaingn at the weekend, can increase the campaign exporsure to casual riders hence increase the potential convertion rate from casual riders to annual memebers.
 
 Findings: 
 
