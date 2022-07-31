@@ -13,7 +13,7 @@ In order to do that, I will analyze behaviours of both causal riders and annual 
 The three key recommendations for the marketing campaign are from where to select campaign location, how to better target the customers and seasonality and day of week  standpoint.    
 
 1. From the location perspective: 
-The marketing campaign (i.e. rolling ads at the stations) can prioritize the most popular 7 locations, where the campaign will target more users, and more targeted customers.
+The marketing campaign (i.e. rolling ads at the stations) can prioritize the most popular 7 locations, where the campaign will target more users/ more targeted customers.
 
 2. From the target customers (casual riders) perspective: 
 Provide more marketing campaign visibility (i.e. billboard footage, rolling ads frequency) at docked bike stations. The users are 100% targeted customers.
