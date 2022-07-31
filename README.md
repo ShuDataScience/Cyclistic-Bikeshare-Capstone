@@ -19,7 +19,7 @@ The marketing campaign (i.e. rolling ads at the stations) can prioritize the mos
 Provide more marketing campaign visibility (i.e. billboard footage, rolling ads frequency) at docked bike stations. The users are 100% targeted customers.
 Digital advertisement and email campaign can be used to this group of users too. 
 
-3. From the seanalirty and day of the week perspective:
+3. From the seasonality and day of the week perspective:
   
     a. Jun-Oct are the peak seasons. I recommend to increase budget spent in these months. The marketing campaingn will be viewed by more targeted customers (casual users). Digital advertisement and email campaign frequency can be increased.
   
