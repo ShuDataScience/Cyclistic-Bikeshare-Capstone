@@ -28,9 +28,9 @@ Digital advertisement and email campaign can be used to this group of users too.
 Findings: 
 
 How do annual members and casual riders use Cyclistic bikes differently?
-1. Both types of users have a similar trend in trip duration: The duration is longer at the weekend. Tuesday- Thursday are the shortest. 
+1. Both types of users have a similar trend in trip duration: the duration is longer at the weekend. Tuesday- Thursday are the shortest. 
 2. Casual riders' average trip duration is around 2 times of the member's. 
-3. Members do not rent bikes for over 1.5 days. The long duration trips are by casual riders.
+3. Members do not rent bikes for over 1.5 days. The long (>1.5 days) duration trips are contributed 100% by casual riders.
 4. Usages throughout the week differs between casual rider and members. Casuals riders' usage at the weekend are significantly higher than working days, while members have less demand at the weekend. 
 5. All the docked_bike users are casual riders.
 6. Casual users are more active (by 40% roughly) at the weekend.
